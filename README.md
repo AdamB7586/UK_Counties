@@ -9,7 +9,7 @@ Produces a list of UK counties using PHP. Can be used to store county ID's rathe
 
 ## Installation
 
-Installation is available via [Composer/Packagist](https://packagist.org/packages/adamb/database), you can add the following line to your `composer.json` file:
+Installation is available via [Composer/Packagist](https://packagist.org/packages/adamb/uk-counties), you can add the following line to your `composer.json` file:
 
 ```json
 "adamb/uk-counties": "^1.0"

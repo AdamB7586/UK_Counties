@@ -1,4 +1,4 @@
-[![Build Status](https://api.travis-ci.org/AdamB7586/UKCounties.png)](https://api.travis-ci.org/AdamB7586/UKCounties)
+[![Build Status](https://api.travis-ci.org/AdamB7586/UK_Counties.png)](https://api.travis-ci.org/AdamB7586/UK_Counties)
 [![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/AdamB7586/UK_Counties/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/AdamB7586/UK_Counties/)
 [![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%205.3-8892BF.svg?style=flat-circle)](https://php.net/)
 [![Scrutinizer Coverage](https://scrutinizer-ci.com/g/AdamB7586/UK_Counties/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/AdamB7586/UK_Counties/)

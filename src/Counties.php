@@ -155,7 +155,7 @@ class Counties {
     /**
      * Returns the id of a given county name
      * @param string $county This should be the county name you wish to find the id for
-     * @return int Returns the id of the given county name
+     * @return int|false Returns the id of the given county name if it exists else returns false
      */
     public static function getCountyID($county){
         if(in_array($county, self::$counties)){

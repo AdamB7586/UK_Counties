@@ -5,7 +5,7 @@
 
 # UK Counties PHP
 
-Product a list of UK counties using PHP. Can be used to store county ID's rather than names.
+Produces a list of UK counties using PHP. Can be used to store county ID's rather than names.
 
 ## Installation
 

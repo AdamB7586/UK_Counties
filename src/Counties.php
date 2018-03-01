@@ -168,7 +168,7 @@ class Counties {
     /**
      * Returns the county name of a given county id
      * @param int $id This should be the id of the county you wish to know the name of
-     * @return string Will return the county name of the id
+     * @return string|false Will return the county name of the id if it exists else will return false
      */
     public static function getCountyName($id){
         if(is_numeric($id) && array_key_exists(intval($id), self::$counties)){
